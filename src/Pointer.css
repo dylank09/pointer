@@ -1,3 +1,17 @@
 .Pointer {
-  text-align: center;
+    text-align: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+footer {
+    color: white;
+    background-color: lightseagreen;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+    font-size: small;
+    margin-right: 5px;
 }
