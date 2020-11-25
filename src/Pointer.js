@@ -5,7 +5,7 @@ function Pointer() {
   return (
     <div className="Pointer">
       <h1>Pointer</h1>
-      <h4>The one stop shop for estimating the story points for upcoming sprints...</h4>
+      <h4>The one stop shop for estimating the story points for upcoming sprints.</h4>
 
       <PointsCalculator />
       

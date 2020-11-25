@@ -12,9 +12,9 @@ form {
     
     background-color: rgb(216, 1, 1);
     color: white;
-    border-radius: 4px;
-    width: 50%;
-    padding: 7px;
+    border-radius: 3px;
+    width: 40%;
+    padding: 1.5px;
     text-align: center;
     margin-left:auto;
     margin-right:auto;
@@ -27,14 +27,11 @@ input[type='number'] {
 }
 
 input[type='submit'] {
-    -moz-box-shadow: inset 0px 1px 0px 0px #45D6D6;
-	-webkit-box-shadow: inset 0px 1px 0px 0px #45D6D6;
-	box-shadow: inset 0px 1px 0px 0px #45D6D6;
-	background-color: #2CBBBB;
+	background-color: lightseagreen;
     border: 1px solid #27A0A0;
     border-radius: 3px;
 	cursor: pointer;
-	color: #FFFFFF;
+	color: white;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 14px;
 	padding: 8px 18px;
