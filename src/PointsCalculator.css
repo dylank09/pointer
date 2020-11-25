@@ -23,6 +23,7 @@ form {
 input[type='number'] {
     width: auto;
     height: 25px;
+    text-align: center;
     margin-bottom: 7px;
 }
 
